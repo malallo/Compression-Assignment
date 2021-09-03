@@ -1,0 +1,12 @@
+---
+:id: 33516350
+:submitters:
+- :name: Matt Robert Lallo
+  :email: malallo@my.uri.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-04 00:49:13.405311000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-03 17:49:13.405311000 Z
+:status: processed
+:score: 70.0
